@@ -1,4 +1,3 @@
-
 /* hw4.c
  * Name: Teal Hoffman
  * Class: EE 160
@@ -37,8 +36,7 @@ int main() {
 
 
 
-
-
+/*
 uhx02:/home/t/tealhoff% gcc -o hw4 hw4.c
 uhx02:/home/t/tealhoff% ./hw4
 Please enter a number:100
@@ -51,3 +49,4 @@ Please enter a number:5
 Enter 'a' to double or 'b' to triple:b
 You chose 'b'
 The result is 15.000000
+*/

@@ -40,7 +40,7 @@ int main() {
 
 
 
-
+/*
 uhx02:/home/t/tealhoff% gcc -o hw11c hw11c.c -lm
 uhx02:/home/t/tealhoff% ./hw11c
 Please enter a time, t, in seconds from 0 to 120:
@@ -67,3 +67,4 @@ Please enter a time, t, in seconds from 0 to 120:
 -3
 Error...Please enter number digits
 uhx02:/home/t/tealhoff%
+*/

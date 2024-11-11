@@ -1,4 +1,3 @@
-
 /* hw16.c
  * Teal Hoffman
  * EE 160
@@ -85,14 +84,10 @@ double y(double input) {
 }
 
 
-
-
-
-
-......
-
+/*
 x24998    -1.749    4.058
  x24999    -14.363    207.289
  x25000    -1.497    3.240
 In 25000 iterations, the secant method did not find a converging x-value
 uhx02:/home/t/tealhoff%
+    */

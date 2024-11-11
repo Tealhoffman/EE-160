@@ -23,7 +23,7 @@ int main(void) {
    return 0;
 }
 
-
+/*
 uhx02:/home/t/tealhoff% nano hw2.c
 uhx02:/home/t/tealhoff% gcc -o hw2 hw2.c
 uhx02:/home/t/tealhoff% ./hw2
@@ -32,3 +32,4 @@ The value of the double 'x' is 3.500000
 The value of the float 'y' is 1.500000
 The value of the character 'myletter' is a
 uhx02:/home/t/tealhoff%
+   */

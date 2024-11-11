@@ -1,6 +1,3 @@
-
-My code: 
-                                                                                                        
 /* hw3.c
  * Teal Hoffman
  * EE 160
@@ -26,14 +23,10 @@ int main(void) {
 }
 
 
-
-What the computer put out: 
-
+/*
 uhx02:/home/t/tealhoff% gcc -o hw3 hw3.c
 uhx02:/home/t/tealhoff% ./hw3
 The first letter of the alphabet is A
 The first letter of the alphabet is 65
 uhx02:/home/t/tealhoff% lol wat
-
-
-
+*/

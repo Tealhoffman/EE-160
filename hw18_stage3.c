@@ -94,7 +94,7 @@ int main(void) {
 
 
 
-
+/*
 uhx02:/home/t/tealhoff% nano hw18_stage3.c
 uhx02:/home/t/tealhoff% gcc -o hw18_stage3 hw18_stage3.c
 uhx02:/home/t/tealhoff% ./hw18_stage3
@@ -111,3 +111,4 @@ The resulting matrix F = D*E is:
   -27   -68   -43
   -39  -107   -67
 uhx02:/home/t/tealhoff%
+*/

@@ -1,5 +1,3 @@
-The code:
-
 /* hw7.c
  * Teal Hoffman
  * EE 160
@@ -35,7 +33,7 @@ int main() {
    return 0;
  }
 
-
+/*
 The program:
 
 uhx02:/home/t/tealhoff% gcc -o hw7 hw7.c
@@ -45,3 +43,4 @@ uhx02:/home/t/tealhoff% ./hw7
 21.305736
 -157.859661
 uhx02:/home/t/tealhoff%
+   */

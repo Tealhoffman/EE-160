@@ -20,8 +20,9 @@ int main() {
 
 
 
-
+/*
 uhx02:/home/t/tealhoff% gcc -o hw6 hw6.c
 uhx02:/home/t/tealhoff% ./hw6
 Enter two numbers separated by a space: 3 3
 The sum of those two numbers is 6.000000
+*/

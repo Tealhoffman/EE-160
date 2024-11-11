@@ -1,6 +1,3 @@
-
-The code: 
-
 /* hw9.c
  * Teal Hoffman
  * EE 160
@@ -29,7 +26,7 @@ int main() {
 
 
 
-
+/*
 The program: 
 
 uhx02:/home/t/tealhoff% gcc -o hw9 hw9.c
@@ -47,3 +44,4 @@ uhx02:/home/t/tealhoff% ./hw9
 Enter a value:
 10
 Number is large
+*/

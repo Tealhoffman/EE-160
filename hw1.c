@@ -15,9 +15,10 @@ int main(void)  {
    return 0;
 }
 
-
+/*
 uhx0v2:/home/t/tealhoff% gcc -o tealhw1 tealhw1.c
 uhx0v2:/home/t/tealhoff% ./tealhw1
 Hello.
 This is a program.
 uhx02:/home/t/tealhoff%
+*/

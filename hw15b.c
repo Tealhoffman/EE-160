@@ -1,8 +1,4 @@
-
-For the function f(x)=2x^3-28.4x^2-1.38x+59.22
-
-
-
+//For the function f(x)=2x^3-28.4x^2-1.38x+59.22
 /* hw15b.c
  * Teal Hoffman
  * EE 160
@@ -69,9 +65,7 @@ double y(double input) {
 
 
 
-
-
-
+/*
 uhx02:/home/t/tealhoff% gcc -o hw15b hw15b.c
 uhx02:/home/t/tealhoff% ./hw15b
 Please enter a minimum number and a maximum number separated by a space:-100 100
@@ -136,4 +130,4 @@ x-value     y-value    sign-change
  13.903    -74.699
  14.452    144.375     YES!
 uhx02:/home/t/tealhoff%
-
+*/

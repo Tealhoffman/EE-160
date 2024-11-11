@@ -1,5 +1,3 @@
-The Code: 
-
 /* hw5.c
  * Teal Hoffman
  * EE 160
@@ -33,7 +31,7 @@ int main() {
  }
 
 
-
+/*
 The Program:
 
 uhx02:/home/t/tealhoff% gcc -o hw5 hw5.c
@@ -45,3 +43,4 @@ The integer is 12345
 The character is b
 The double is   12.200
 uhx02:/home/t/tealhoff%
+   */

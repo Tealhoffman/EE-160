@@ -1,8 +1,4 @@
-
-For the function f(x)=x^2-10x+21
-
-
-
+//For the function f(x)=x^2-10x+21
 /* hw15a.c
  * Teal Hoffman
  * EE 160
@@ -69,9 +65,7 @@ double y(double input) {
 
 
 
-
-
-
+/*
 uhx02:/home/t/tealhoff% gcc -o hw15a hw15a.c
 uhx02:/home/t/tealhoff% ./hw15a
 Please enter a minimum number and a maximum number separated by a space:0 11
@@ -114,3 +108,4 @@ x-value  y-value  sign-change
   8.400   7.560
   9.700  18.090
 uhx02:/home/t/tealhoff%
+    */

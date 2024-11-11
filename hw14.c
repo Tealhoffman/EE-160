@@ -1,5 +1,3 @@
-
-
 /* hw14.c
  * Teal Hoffman
  * EE 160
@@ -92,8 +90,7 @@ double acceleration(double time) {
 }
 
 
-
-
+/*
 uhx02:/home/t/tealhoff% gcc -o hw14 hw14.c
 uhx02:/home/t/tealhoff% ./hw14
 Please enter a time, t, in seconds from 0 to 120:43.5
@@ -161,3 +158,4 @@ Please enter a number from 0 to 120 that you would like to end on:Time   Velocit
 ====   ========   ============
 0      181.4       0.961
 Are you done? Enter 'y' for yes and 'n' for no:Please enter a time, t, in seconds from 0 to 120:
+   */

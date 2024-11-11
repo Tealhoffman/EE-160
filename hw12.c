@@ -49,7 +49,7 @@ int main() {
 
 
 
-
+/*
 uhx02:/home/t/tealhoff% ./hw12
 Please enter a time, t, in seconds from 0 to 120:-3
 You have entered the number: -3.000000
@@ -98,3 +98,4 @@ Time   Velocity   Acceleration
 45     205.7        0.377
 50     207.2        0.339
 uhx02:/home/t/tealhoff%
+   */

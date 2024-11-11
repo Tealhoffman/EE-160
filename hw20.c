@@ -63,7 +63,7 @@ double CalcVar(double arra[], int elem) {
 
 
 
-
+/*
 uhx02:/home/t/tealhoff% gcc -o hw20 hw20.c -lm
 uhx02:/home/t/tealhoff% ./hw20
 Please enter the 8 integers separated by a space:
@@ -75,3 +75,4 @@ The mean value is: 4.500
 The variance is: 5.250
 The std dev is: 2.291
 uhx02:/home/t/tealhoff%
+   */

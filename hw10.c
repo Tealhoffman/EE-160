@@ -1,6 +1,3 @@
-
-My Code: 
-
 /* hw10.c
  * Teal Hoffman
  * EE 160
@@ -22,7 +19,7 @@ int main()  {
  }
 
 
-
+/*
 The Program:
 
 uhx02:/home/t/tealhoff% gcc -o hw10 hw10.c
@@ -38,3 +35,4 @@ x=7, y=45
 x=8, y=57
 x=9, y=71
 x=10, y=87
+   */

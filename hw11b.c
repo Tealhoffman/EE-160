@@ -1,5 +1,3 @@
-My Code: 
-
 /* hw11b.c
  * Teal Hoffman
  * EE 160
@@ -31,7 +29,7 @@ int main() {
    return 0;
   }
 
-
+/*
 The Program:
     
 uhx02:/home/t/tealhoff% gcc -o hw11b hw11b.c
@@ -43,4 +41,4 @@ uhx02:/home/t/tealhoff% ./hw11b
 Please enter a time, t, in seconds from 0 to 120:
 0
 Velocity = 181.356600, Acceleration = 0.960807
-                                                                                                                                                                                                                                                                 
+*/                                                                                                                                                                                                                                                            

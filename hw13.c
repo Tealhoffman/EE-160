@@ -68,9 +68,7 @@ int main() {
 
 
 
-
-
-
+/*
 uhx02:/home/t/tealhoff% ./hw13
 Please enter a time, t, in seconds from 0 to 120:2
 You have entered the number: 2.000000
@@ -141,3 +139,4 @@ Time   Velocity   Acceleration
 20     194.6        0.653
 Are you done? Enter 'y' for yes and 'n' for no:y
 uhx02:/home/t/tealhoff%
+*/

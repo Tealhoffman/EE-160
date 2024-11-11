@@ -1,4 +1,3 @@
-
 /* hw16.c
  * Teal Hoffman
  * EE 160
@@ -85,7 +84,7 @@ double y(double input) {
 }
 
 
-
+/*
 uhx02:/home/t/tealhoff% gcc -o hw16 hw16.c -lm
 uhx02:/home/t/tealhoff% ./hw16
 This program is to implement the secant method to find ONE root of the polynomial function
@@ -114,3 +113,4 @@ You entered 0.000 and 9.000 as your initial values
  x1786    18.722    0.000
 Final (converged) value of x: 18.722
 uhx02:/home/t/tealhoff%
+    */

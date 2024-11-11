@@ -83,6 +83,7 @@ int main(void) {
   }
 }
 
+/*
 Output: 
 
 uhx02:/home/t/tealhoff% nano hw18_part1.c
@@ -101,3 +102,4 @@ The resulting matrix F = D*E is:
   -27   -68   -43
   -39  -107   -67
 uhx02:/home/t/tealhoff%
+*/
